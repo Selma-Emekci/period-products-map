@@ -1,20 +1,61 @@
 [
-  {
-    "id": "loc1",
-    "name": "Downtown Library (Restroom Dispenser)",
-    "address": "100 Larkin St, San Francisco, CA 94102",
-    "lat": 37.778868,
-    "lng": -122.415801,
-    "notes": "Free pads/liners in 2nd floor restroom. Ask staff if empty.",
-    "verified": "2026-02-01"
-  },
-  {
-    "id": "loc2",
-    "name": "Community Health Clinic",
-    "address": "123 Mission St, San Francisco, CA 94105",
-    "lat": 37.7892,
-    "lng": -122.3959,
-    "notes": "Front desk has free products (pads + liners).",
-    "verified": "2026-02-05"
-  }
+  {"id":"bundles_of_hope_bham","name":"Bundles of Hope Diaper Bank","address":"Birmingham AL","lat":null,"lng":null},
+  {"id":"peninsula_period_network","name":"Peninsula Period Network","address":"Soldotna AK","lat":null,"lng":null},
+  {"id":"havasu_helping_girls","name":"Havasu Helping Girls, Inc.","address":"Lake Havasu City AZ","lat":null,"lng":null},
+  {"id":"women4women_tempe","name":"Women4Women","address":"Tempe AZ","lat":null,"lng":null},
+  {"id":"diaper_bank_southern_az","name":"Diaper Bank of Southern Arizona","address":"Tucson AZ","lat":null,"lng":null},
+  {"id":"the_diaper_collective_nwa","name":"The Diaper Collective of Northwest Arkansas","address":"Springdale AR","lat":null,"lng":null},
+  
+  {"id":"ladybug_program","name":"The Ladybug Program","address":"Lafayette CA","lat":null,"lng":null},
+  {"id":"sisters_on_the_street","name":"Sisters On the Street","address":"North Hills CA","lat":null,"lng":null},
+  {"id":"supplybank_oakland","name":"SupplyBank.org","address":"Oakland CA","lat":null,"lng":null},
+  {"id":"san_diego_food_bank","name":"San Diego Food Bank","address":"San Diego CA","lat":null,"lng":null},
+  
+  {"id":"a_precious_child","name":"A Precious Child","address":"Broomfield CO","lat":null,"lng":null},
+  
+  {"id":"beam_period_products","name":"Beam Period Products","address":"North Haven CT","lat":null,"lng":null},
+  
+  {"id":"stand_up_period","name":"Stand Up. Period","address":"Wilmington DE","lat":null,"lng":null},
+  
+  {"id":"the_monthly_dc","name":"The Monthly (Greater DC Diaper Bank)","address":"Washington DC","lat":null,"lng":null},
+  
+  {"id":"renewing_dignity","name":"Renewing Dignity, Inc.","address":"Atlantic Beach FL","lat":null,"lng":null},
+  {"id":"alliance_for_period_supplies_swfl","name":"Alliance for Period Supplies of SWFL","address":"Estero FL","lat":null,"lng":null},
+  {"id":"treasure_coast_food_bank","name":"Treasure Coast Food Bank","address":"Fort Pierce FL","lat":null,"lng":null},
+  {"id":"embrace_of_celebration","name":"Embrace of Celebration","address":"Kissimmee FL","lat":null,"lng":null},
+  {"id":"help_her_period","name":"Help Her, Period","address":"Lauderdale Lakes FL","lat":null,"lng":null},
+  {"id":"babycycle_stpete","name":"BabyCycle","address":"St. Petersburg FL","lat":null,"lng":null},
+  {"id":"beyond_the_pantry","name":"Beyond the Pantry","address":"Tallahassee FL","lat":null,"lng":null},
+  {"id":"junior_league_tampa","name":"Junior League of Tampa","address":"Tampa FL","lat":null,"lng":null},
+  {"id":"junior_league_palm_beaches","name":"Junior League of Palm Beaches","address":"West Palm Beach FL","lat":null,"lng":null},
+  {"id":"central_florida_diaper_bank","name":"Central Florida Diaper Bank","address":"Winter Garden FL","lat":null,"lng":null},
+  
+  {"id":"period_plus_atlanta","name":"Period Plus (Atlanta Glow)","address":"Marietta GA","lat":null,"lng":null},
+  {"id":"over_the_moon_savannah","name":"Over the Moon","address":"Savannah GA","lat":null,"lng":null},
+  {"id":"helping_mamas_norcross","name":"Helping Mamas","address":"Norcross GA","lat":null,"lng":null},
+  
+  {"id":"mai_movement_hawaii","name":"Ma’i Movement Hawai’i","address":"Kapolei HI","lat":null,"lng":null},
+  
+  {"id":"idaho_period_project","name":"Idaho Period Project","address":"Rigby ID","lat":null,"lng":null},
+  
+  {"id":"loving_bottoms_galesburg","name":"Loving Bottoms Diaper Bank","address":"Galesburg IL","lat":null,"lng":null},
+  {"id":"period_collective_parkridge","name":"The Period Collective","address":"Park Ridge IL","lat":null,"lng":null},
+  {"id":"keeping_families_covered","name":"Keeping Families Covered","address":"Waukegan IL","lat":null,"lng":null},
+  
+  {"id":"hamco_love","name":"HamCo Love","address":"Fishers IN","lat":null,"lng":null},
+  {"id":"healthier_moms_babies_fw","name":"Healthier Moms and Babies Inc.","address":"Fort Wayne IN","lat":null,"lng":null},
+  
+  {"id":"its_that_time_girl_clarksdale","name":"It’s That Time Girl","address":"Clarksdale MS","lat":null,"lng":null},
+  
+  {"id":"changing_table","name":"The Changing Table","address":"Osage Beach MO","lat":null,"lng":null},
+  
+  {"id":"erie_county_alliance","name":"Erie County Alliance for Period Supplies","address":"Buffalo NY","lat":null,"lng":null},
+  {"id":"her_village_bronx","name":"Her Village","address":"New York NY (Bronx)","lat":null,"lng":null},
+  {"id":"expecting_relief_brooklyn","name":"Expecting Relief","address":"New York NY (Brooklyn)","lat":null,"lng":null},
+  
+  {"id":"on_the_spot_durham","name":"On the Spot","address":"Durham NC","lat":null,"lng":null},
+  
+  {"id":"tidal_babe_cincy","name":"Tidal Babe Period Bank","address":"Cincinnati OH","lat":null,"lng":null},
+  {"id":"our_flow_cleveland","name":"Our Flow","address":"Cleveland OH","lat":null,"lng":null},
+  {"id":"period_pantry_project_columbus","name":"The Period Pantry Project","address":"Columbus OH","lat":null,"lng":null}
 ]
