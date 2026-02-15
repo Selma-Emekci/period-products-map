@@ -96,14 +96,12 @@ export default function App() {
       <aside style={{ padding: 16, borderRight: "1px solid #eee", overflow: "auto" }}>
         <h2 style={{ margin: "0 0 6px" }}>🌸 Free Period Products Near Me</h2>
         <div style={{ fontSize: 13, color: "#555", marginBottom: 12 }}>
-          No tracking. Location stays on your device.
         </div>
 
         {geoError && (
           <div style={{ padding: 12, background: "#fff3cd", border: "1px solid #ffeeba", borderRadius: 12 }}>
             <strong>Location:</strong> {geoError}
             <div style={{ fontSize: 13, marginTop: 6 }}>
-              You can still browse, but distances won’t show.
             </div>
           </div>
         )}
@@ -126,8 +124,7 @@ export default function App() {
                 <div style={{ fontWeight: 800 }}>{l.name}</div>
                 <div style={{ fontSize: 13, color: "#444", marginTop: 4 }}>{l.address}</div>
                 <div style={{ fontSize: 12, color: "#666", marginTop: 8 }}>
-                  {l.km != null ? <b>{formatDistance(l.km)} away</b> : "Distance unknown"} • Verified:{" "}
-                  {l.verified || "—"}
+                  {l.km != null ? <b>{formatDistance(l.km)} away</b> : "Distance unknown"}
                 </div>
 
                 {active && (
@@ -150,7 +147,7 @@ export default function App() {
                         fontWeight: 800,
                       }}
                     >
-                      Open Directions in Maps 🗺️
+                      Open Directions in Maps
                     </button>
                   </div>
                 )}
@@ -174,7 +171,7 @@ export default function App() {
 
           {userPos && (
             <Marker position={[userPos.lat, userPos.lng]}>
-              <Popup>Your approximate location</Popup>
+              <Popup>Your location</Popup>
             </Marker>
           )}
 
