@@ -1,0 +1,20 @@
+[
+  {
+    "id": "loc1",
+    "name": "Downtown Library (Restroom Dispenser)",
+    "address": "100 Larkin St, San Francisco, CA 94102",
+    "lat": 37.778868,
+    "lng": -122.415801,
+    "notes": "Free pads/liners in 2nd floor restroom. Ask staff if empty.",
+    "verified": "2026-02-01"
+  },
+  {
+    "id": "loc2",
+    "name": "Community Health Clinic",
+    "address": "123 Mission St, San Francisco, CA 94105",
+    "lat": 37.7892,
+    "lng": -122.3959,
+    "notes": "Front desk has free products (pads + liners).",
+    "verified": "2026-02-05"
+  }
+]
