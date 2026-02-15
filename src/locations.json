@@ -35,3 +35,1326 @@
     "lng": -117.1055
   }
 ]
+[
+  {
+    "id": "bundles_of_hope_diaper_bank_birmingham_al",
+    "name": "Bundles of Hope Diaper Bank",
+    "address": "3700 3rd Ave S, Birmingham, AL 35222, USA",
+    "lat": 33.5056,
+    "lng": -86.8096
+  },
+  {
+    "id": "peninsula_period_network_soldotna_ak",
+    "name": "Peninsula Period Network",
+    "address": "Soldotna, AK 99669, USA",
+    "lat": 60.4860,
+    "lng": -151.0700
+  },
+  {
+    "id": "the_kwek_society_nationwide",
+    "name": "The Kwek Society",
+    "address": "Anchorage, AK 99501, USA",
+    "lat": 61.2181,
+    "lng": -149.9003
+  }
+]
+[
+  {
+    "id": "havasu_helping_girls_lake_havasu_city_az",
+    "name": "Havasu Helping Girls, Inc.",
+    "address": "Lake Havasu City, AZ 86403, USA",
+    "lat": 34.4839,
+    "lng": -114.3225
+  },
+  {
+    "id": "women4women_tempe_az",
+    "name": "Women4Women",
+    "address": "Tempe, AZ 85281, USA",
+    "lat": 33.4255,
+    "lng": -111.9400
+  },
+  {
+    "id": "diaper_bank_southern_arizona_tucson_az",
+    "name": "Diaper Bank of Southern Arizona",
+    "address": "3820 S Park Ave #200, Tucson, AZ 85713, USA",
+    "lat": 32.1887,
+    "lng": -110.9620
+  },
+  {
+    "id": "the_kwek_society_anchorage_ak_for_az_native",
+    "name": "The Kwek Society (Native American educators/organizations—regional hub)",
+    "address": "Anchorage, AK 99501, USA",
+    "lat": 61.2181,
+    "lng": -149.9003
+  },
+  {
+    "id": "diaper_collective_of_northwest_arkansas_springdale_ar",
+    "name": "The Diaper Collective of Northwest Arkansas",
+    "address": "101 N Johnson Ave, Springdale, AR 72764, USA",
+    "lat": 36.1880,
+    "lng": -94.1288
+  }
+]
+[
+  {
+    "id": "a_precious_child_broomfield_co",
+    "name": "A Precious Child",
+    "address": "7051 W 118th Ave, Broomfield, CO 80020, USA",
+    "lat": 39.9147,
+    "lng": -105.0752
+  },
+  {
+    "id": "kwek_society_native_educators_co",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Denver, CO, USA",
+    "lat": 39.7392,
+    "lng": -104.9903
+  },
+
+  {
+    "id": "beam_period_products_north_haven_ct",
+    "name": "Beam Period Products (Diaper Bank of Connecticut)",
+    "address": "466 Grand Ave, New Haven, CT 06513, USA",
+    "lat": 41.3236,
+    "lng": -72.9037
+  },
+
+  {
+    "id": "stand_up_period_wilmington_de",
+    "name": "Stand Up. Period (Junior League of Wilmington)",
+    "address": "Wilmington, DE, USA",
+    "lat": 39.7391,
+    "lng": -75.5398
+  },
+
+  {
+    "id": "the_monthly_dc",
+    "name": "The Monthly (Greater DC Diaper Bank)",
+    "address": "Washington, DC, USA",
+    "lat": 38.9072,
+    "lng": -77.0369
+  },
+
+  {
+    "id": "renewing_dignity_atlantic_beach_fl",
+    "name": "Renewing Dignity, Inc.",
+    "address": "Atlantic Beach, FL 32233, USA",
+    "lat": 30.3344,
+    "lng": -81.3987
+  },
+  {
+    "id": "aps_swfl_estero_fl",
+    "name": "Alliance for Period Supplies of SWFL",
+    "address": "Estero, FL 33928, USA",
+    "lat": 26.4381,
+    "lng": -81.8068
+  },
+  {
+    "id": "treasure_coast_food_bank_fort_pierce_fl",
+    "name": "Treasure Coast Food Bank",
+    "address": "401 Angle Rd, Fort Pierce, FL 34947, USA",
+    "lat": 27.4477,
+    "lng": -80.3770
+  },
+  {
+    "id": "embrace_of_celebration_kissimmee_fl",
+    "name": "Embrace of Celebration",
+    "address": "Kissimmee, FL 34741, USA",
+    "lat": 28.2919,
+    "lng": -81.4076
+  },
+  {
+    "id": "help_her_period_lauderdale_lakes_fl",
+    "name": "Help Her, Period (The Beauty Initiative, Inc.)",
+    "address": "Lauderdale Lakes, FL 33311, USA",
+    "lat": 26.1645,
+    "lng": -80.2064
+  },
+  {
+    "id": "babycycle_st_petersburg_fl",
+    "name": "BabyCycle",
+    "address": "2453 49th St N, St. Petersburg, FL 33710, USA",
+    "lat": 27.7936,
+    "lng": -82.7024
+  },
+  {
+    "id": "junior_league_tampa_fl",
+    "name": "Junior League of Tampa",
+    "address": "155 S Dakota Ave, Tampa, FL 33606, USA",
+    "lat": 27.9446,
+    "lng": -82.4716
+  },
+  {
+    "id": "junior_league_palm_beaches_fl",
+    "name": "Junior League of Palm Beaches",
+    "address": "1330 2nd St, West Palm Beach, FL 33401, USA",
+    "lat": 26.7166,
+    "lng": -80.0537
+  },
+  {
+    "id": "central_florida_diaper_bank_winter_garden_fl",
+    "name": "Central Florida Diaper Bank",
+    "address": "1400 E Story Rd, Winter Garden, FL 34787, USA",
+    "lat": 28.5653,
+    "lng": -81.5836
+  }
+]
+[
+  {
+    "id": "period_plus_marietta_ga",
+    "name": "Period Plus (Atlanta Glow)",
+    "address": "Marietta, GA 30060, USA",
+    "lat": 33.9526,
+    "lng": -84.5499
+  },
+  {
+    "id": "over_the_moon_savannah_ga",
+    "name": "Over the Moon",
+    "address": "Savannah, GA 31401, USA",
+    "lat": 32.0809,
+    "lng": -81.0912
+  },
+  {
+    "id": "helping_mamas_norcross_ga",
+    "name": "Helping Mamas",
+    "address": "4487 Park Dr, Norcross, GA 30093, USA",
+    "lat": 33.9164,
+    "lng": -84.1930
+  },
+
+  {
+    "id": "mai_movement_kapolei_hi",
+    "name": "Ma’i Movement Hawai’i",
+    "address": "Kapolei, HI 96707, USA",
+    "lat": 21.3354,
+    "lng": -158.0856
+  },
+
+  {
+    "id": "idaho_period_project_rigby_id",
+    "name": "Idaho Period Project",
+    "address": "Rigby, ID 83442, USA",
+    "lat": 43.6727,
+    "lng": -111.9141
+  },
+
+  {
+    "id": "loving_bottoms_galesburg_il",
+    "name": "Loving Bottoms Diaper Bank",
+    "address": "502 Knox Rd 1900 N, Galesburg, IL 61401, USA",
+    "lat": 40.9423,
+    "lng": -90.3712
+  },
+  {
+    "id": "period_collective_park_ridge_il",
+    "name": "The Period Collective",
+    "address": "Park Ridge, IL 60068, USA",
+    "lat": 42.0111,
+    "lng": -87.8406
+  },
+  {
+    "id": "keeping_families_covered_waukegan_il",
+    "name": "Keeping Families Covered",
+    "address": "216 N Genesee St, Waukegan, IL 60085, USA",
+    "lat": 42.3636,
+    "lng": -87.8336
+  },
+
+  {
+    "id": "hamco_love_fishers_in",
+    "name": "HamCo Love",
+    "address": "Fishers, IN 46038, USA",
+    "lat": 39.9568,
+    "lng": -86.0133
+  },
+  {
+    "id": "healthier_moms_babies_fort_wayne_in",
+    "name": "Healthier Moms and Babies Inc.",
+    "address": "Fort Wayne, IN 46802, USA",
+    "lat": 41.0793,
+    "lng": -85.1394
+  },
+  {
+    "id": "project_period_indianapolis_in",
+    "name": "Project Period",
+    "address": "Indianapolis, IN 46204, USA",
+    "lat": 39.7684,
+    "lng": -86.1581
+  },
+  {
+    "id": "second_harvest_food_bank_muncie_in",
+    "name": "Second Harvest Food Bank",
+    "address": "6621 N Old State Rd 3, Muncie, IN 47303, USA",
+    "lat": 40.2473,
+    "lng": -85.3904
+  },
+
+  {
+    "id": "give_grace_give_hope_johnston_ia",
+    "name": "Give Grace Give Hope, Org.",
+    "address": "Johnston, IA 50131, USA",
+    "lat": 41.6730,
+    "lng": -93.6977
+  },
+  {
+    "id": "kwek_society_native_educators_ia",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Des Moines, IA, USA",
+    "lat": 41.5868,
+    "lng": -93.6250
+  },
+
+  {
+    "id": "giving_the_basics_kansas_city_ks",
+    "name": "Giving the Basics",
+    "address": "500 Minnesota Ave, Kansas City, KS 66101, USA",
+    "lat": 39.1142,
+    "lng": -94.6275
+  },
+  {
+    "id": "just_basics_lawrence_ks",
+    "name": "Just Basics of Douglas County (Just Food)",
+    "address": "1000 E 11th St, Lawrence, KS 66046, USA",
+    "lat": 38.9717,
+    "lng": -95.2240
+  },
+  {
+    "id": "strawberry_week_leawood_ks",
+    "name": "Strawberry Week",
+    "address": "Leawood, KS 66206, USA",
+    "lat": 38.9600,
+    "lng": -94.6199
+  },
+  {
+    "id": "flint_hills_breadbasket_manhattan_ks",
+    "name": "Flint Hills Breadbasket",
+    "address": "905 Yuma St, Manhattan, KS 66502, USA",
+    "lat": 39.1859,
+    "lng": -96.5717
+  },
+  {
+    "id": "simply_hygiene_park_city_ks",
+    "name": "Simply Hygiene",
+    "address": "Park City, KS 67219, USA",
+    "lat": 37.8011,
+    "lng": -97.3189
+  },
+  {
+    "id": "kwek_society_native_educators_ks",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Topeka, KS, USA",
+    "lat": 39.0473,
+    "lng": -95.6752
+  }
+]
+[
+  {
+    "id": "period_plus_marietta_ga",
+    "name": "Period Plus (Atlanta Glow)",
+    "address": "Marietta, GA 30060, USA",
+    "lat": 33.9526,
+    "lng": -84.5499
+  },
+  {
+    "id": "over_the_moon_savannah_ga",
+    "name": "Over the Moon",
+    "address": "Savannah, GA 31401, USA",
+    "lat": 32.0809,
+    "lng": -81.0912
+  },
+  {
+    "id": "helping_mamas_norcross_ga",
+    "name": "Helping Mamas",
+    "address": "4487 Park Dr, Norcross, GA 30093, USA",
+    "lat": 33.9164,
+    "lng": -84.1930
+  },
+
+  {
+    "id": "mai_movement_kapolei_hi",
+    "name": "Ma’i Movement Hawai’i",
+    "address": "Kapolei, HI 96707, USA",
+    "lat": 21.3354,
+    "lng": -158.0856
+  },
+
+  {
+    "id": "idaho_period_project_rigby_id",
+    "name": "Idaho Period Project",
+    "address": "Rigby, ID 83442, USA",
+    "lat": 43.6727,
+    "lng": -111.9141
+  },
+
+  {
+    "id": "loving_bottoms_galesburg_il",
+    "name": "Loving Bottoms Diaper Bank",
+    "address": "502 Knox Rd 1900 N, Galesburg, IL 61401, USA",
+    "lat": 40.9423,
+    "lng": -90.3712
+  },
+  {
+    "id": "period_collective_park_ridge_il",
+    "name": "The Period Collective",
+    "address": "Park Ridge, IL 60068, USA",
+    "lat": 42.0111,
+    "lng": -87.8406
+  },
+  {
+    "id": "keeping_families_covered_waukegan_il",
+    "name": "Keeping Families Covered",
+    "address": "216 N Genesee St, Waukegan, IL 60085, USA",
+    "lat": 42.3636,
+    "lng": -87.8336
+  },
+
+  {
+    "id": "hamco_love_fishers_in",
+    "name": "HamCo Love",
+    "address": "Fishers, IN 46038, USA",
+    "lat": 39.9568,
+    "lng": -86.0133
+  },
+  {
+    "id": "healthier_moms_babies_fort_wayne_in",
+    "name": "Healthier Moms and Babies Inc.",
+    "address": "Fort Wayne, IN 46802, USA",
+    "lat": 41.0793,
+    "lng": -85.1394
+  },
+  {
+    "id": "project_period_indianapolis_in",
+    "name": "Project Period",
+    "address": "Indianapolis, IN 46204, USA",
+    "lat": 39.7684,
+    "lng": -86.1581
+  },
+  {
+    "id": "second_harvest_food_bank_muncie_in",
+    "name": "Second Harvest Food Bank",
+    "address": "6621 N Old State Rd 3, Muncie, IN 47303, USA",
+    "lat": 40.2473,
+    "lng": -85.3904
+  },
+
+  {
+    "id": "give_grace_give_hope_johnston_ia",
+    "name": "Give Grace Give Hope, Org.",
+    "address": "Johnston, IA 50131, USA",
+    "lat": 41.6730,
+    "lng": -93.6977
+  },
+  {
+    "id": "kwek_society_native_educators_ia",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Des Moines, IA, USA",
+    "lat": 41.5868,
+    "lng": -93.6250
+  },
+
+  {
+    "id": "giving_the_basics_kansas_city_ks",
+    "name": "Giving the Basics",
+    "address": "500 Minnesota Ave, Kansas City, KS 66101, USA",
+    "lat": 39.1142,
+    "lng": -94.6275
+  },
+  {
+    "id": "just_basics_lawrence_ks",
+    "name": "Just Basics of Douglas County (Just Food)",
+    "address": "1000 E 11th St, Lawrence, KS 66046, USA",
+    "lat": 38.9717,
+    "lng": -95.2240
+  },
+  {
+    "id": "strawberry_week_leawood_ks",
+    "name": "Strawberry Week",
+    "address": "Leawood, KS 66206, USA",
+    "lat": 38.9600,
+    "lng": -94.6199
+  },
+  {
+    "id": "flint_hills_breadbasket_manhattan_ks",
+    "name": "Flint Hills Breadbasket",
+    "address": "905 Yuma St, Manhattan, KS 66502, USA",
+    "lat": 39.1859,
+    "lng": -96.5717
+  },
+  {
+    "id": "simply_hygiene_park_city_ks",
+    "name": "Simply Hygiene",
+    "address": "Park City, KS 67219, USA",
+    "lat": 37.8011,
+    "lng": -97.3189
+  },
+  {
+    "id": "kwek_society_native_educators_ks",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Topeka, KS, USA",
+    "lat": 39.0473,
+    "lng": -95.6752
+  }
+]
+[
+  {
+    "id": "helping_hygiene_lexington_ky",
+    "name": "Helping Hygiene, Inc.",
+    "address": "Lexington, KY 40508, USA",
+    "lat": 38.0406,
+    "lng": -84.5037
+  },
+  {
+    "id": "change_today_change_tomorrow_louisville_ky",
+    "name": "Change Today, Change Tomorrow Inc.",
+    "address": "Louisville, KY 40203, USA",
+    "lat": 38.2527,
+    "lng": -85.7585
+  },
+
+  {
+    "id": "girl_code_initiative_covington_la",
+    "name": "Girl Code Initiative (Thurman Perry Foundation)",
+    "address": "Covington, LA 70433, USA",
+    "lat": 30.4755,
+    "lng": -90.1009
+  },
+  {
+    "id": "confidence_project_lafayette_la",
+    "name": "The Confidence Project",
+    "address": "Lafayette, LA 70501, USA",
+    "lat": 30.2241,
+    "lng": -92.0198
+  },
+  {
+    "id": "junior_league_lafayette_la",
+    "name": "Junior League of Lafayette",
+    "address": "504 Richland Ave, Lafayette, LA 70508, USA",
+    "lat": 30.2054,
+    "lng": -92.0140
+  },
+  {
+    "id": "junior_league_new_orleans_la",
+    "name": "Junior League of New Orleans",
+    "address": "4319 Carondelet St, New Orleans, LA 70115, USA",
+    "lat": 29.9273,
+    "lng": -90.0901
+  },
+  {
+    "id": "basic_necessities_shreveport_la",
+    "name": "Basic Necessities",
+    "address": "Shreveport, LA 71101, USA",
+    "lat": 32.5252,
+    "lng": -93.7502
+  },
+
+  {
+    "id": "michael_klahr_jfs_portland_me",
+    "name": "Michael Klahr Jewish Family Services",
+    "address": "1342 Congress St, Portland, ME 04102, USA",
+    "lat": 43.6615,
+    "lng": -70.2860
+  },
+  {
+    "id": "kwek_society_native_me",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Augusta, ME, USA",
+    "lat": 44.3106,
+    "lng": -69.7795
+  },
+
+  {
+    "id": "the_spot_baltimore_md",
+    "name": "The Spot (Baltimore)",
+    "address": "Baltimore, MD 21202, USA",
+    "lat": 39.2904,
+    "lng": -76.6122
+  },
+  {
+    "id": "personal_care_foundation_gaithersburg_md",
+    "name": "Personal Care Foundation",
+    "address": "Gaithersburg, MD 20877, USA",
+    "lat": 39.1434,
+    "lng": -77.2014
+  },
+
+  {
+    "id": "free_period_ministry_hingham_ma",
+    "name": "Free.",
+    "address": "Hingham, MA 02043, USA",
+    "lat": 42.2418,
+    "lng": -70.8898
+  },
+  {
+    "id": "dottie_hyannis_ma",
+    "name": "Dottie (A Baby Center)",
+    "address": "85 Willow Ave, Hyannis, MA 02601, USA",
+    "lat": 41.6523,
+    "lng": -70.2880
+  },
+  {
+    "id": "dignity_matters_middlesex_ma",
+    "name": "Dignity Matters",
+    "address": "Middlesex County, MA, USA",
+    "lat": 42.4672,
+    "lng": -71.2874
+  },
+  {
+    "id": "hope_and_comfort_needham_ma",
+    "name": "Hope & Comfort",
+    "address": "460 Hillside Ave, Needham, MA 02494, USA",
+    "lat": 42.2834,
+    "lng": -71.2381
+  },
+
+  {
+    "id": "charitable_union_battle_creek_mi",
+    "name": "Charitable Union",
+    "address": "85 Calhoun St, Battle Creek, MI 49017, USA",
+    "lat": 42.3212,
+    "lng": -85.1797
+  },
+  {
+    "id": "metropolitan_detroit_diaper_bank_detroit_mi",
+    "name": "Metropolitan Detroit Diaper Bank",
+    "address": "6540 W Fort St, Detroit, MI 48209, USA",
+    "lat": 42.2966,
+    "lng": -83.1047
+  },
+  {
+    "id": "helping_women_period_east_lansing_mi",
+    "name": "Helping Women Period",
+    "address": "East Lansing, MI 48823, USA",
+    "lat": 42.7369,
+    "lng": -84.4839
+  },
+  {
+    "id": "care_collective_swmi_kalamazoo_mi",
+    "name": "Care Collective of Southwest Michigan",
+    "address": "Kalamazoo, MI 49007, USA",
+    "lat": 42.2917,
+    "lng": -85.5872
+  },
+  {
+    "id": "project_dottie_midland_mi",
+    "name": "Project Dottie (The Diaper Alliance)",
+    "address": "Midland, MI 48640, USA",
+    "lat": 43.6156,
+    "lng": -84.2472
+  },
+  {
+    "id": "kwek_society_native_mi",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Lansing, MI, USA",
+    "lat": 42.7325,
+    "lng": -84.5555
+  },
+
+  {
+    "id": "period_kits_mn_andover_mn",
+    "name": "Period Kits MN",
+    "address": "Andover, MN 55304, USA",
+    "lat": 45.2333,
+    "lng": -93.2913
+  },
+  {
+    "id": "shakopee_community_assistance_elko_mn",
+    "name": "Shakopee Community Assistance",
+    "address": "Elko New Market, MN 55020, USA",
+    "lat": 44.5794,
+    "lng": -93.3263
+  },
+  {
+    "id": "community_pathways_owatonna_mn",
+    "name": "Community Pathways of Steele County Inc.",
+    "address": "Owatonna, MN 55060, USA",
+    "lat": 44.0839,
+    "lng": -93.2260
+  },
+  {
+    "id": "kwek_society_native_mn",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Minneapolis, MN, USA",
+    "lat": 44.9778,
+    "lng": -93.2650
+  },
+
+  {
+    "id": "its_that_time_girl_clarksdale_ms",
+    "name": "It’s That Time Girl (Diaper Bank of the Delta)",
+    "address": "Clarksdale, MS 38614, USA",
+    "lat": 34.2001,
+    "lng": -90.5709
+  },
+  {
+    "id": "black_mustard_seed_natchez_ms",
+    "name": "Black Mustard Seed Community Group",
+    "address": "Natchez, MS 39120, USA",
+    "lat": 31.5604,
+    "lng": -91.4032
+  },
+  {
+    "id": "601_for_period_equity_vicksburg_ms",
+    "name": "601 for Period Equity",
+    "address": "Vicksburg, MS 39180, USA",
+    "lat": 32.3526,
+    "lng": -90.8779
+  },
+
+  {
+    "id": "changing_table_osage_beach_mo",
+    "name": "The Changing Table",
+    "address": "Osage Beach, MO 65065, USA",
+    "lat": 38.1503,
+    "lng": -92.6179
+  },
+  {
+    "id": "new_madrid_family_resource_center_mo",
+    "name": "New Madrid County Family Resource Center",
+    "address": "New Madrid, MO 63869, USA",
+    "lat": 36.5867,
+    "lng": -89.5273
+  },
+  {
+    "id": "ozark_alliance_springfield_mo",
+    "name": "Ozark Alliance for Period Supplies (Diaper Bank of the Ozarks)",
+    "address": "Springfield, MO 65802, USA",
+    "lat": 37.2089,
+    "lng": -93.2923
+  },
+  {
+    "id": "st_louis_alliance_st_louis_mo",
+    "name": "St. Louis Alliance for Period Supplies (St. Louis Area Diaper Bank)",
+    "address": "6141 Etzel Ave, St. Louis, MO 63133, USA",
+    "lat": 38.6734,
+    "lng": -90.3064
+  }
+]
+[
+  {
+    "id": "kwek_society_montana",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Billings, MT, USA",
+    "lat": 45.7833,
+    "lng": -108.5007
+  },
+
+  {
+    "id": "poverty_impact_network_hickman_ne",
+    "name": "Poverty Impact Network, Inc.",
+    "address": "Hickman, NE 68372, USA",
+    "lat": 40.6222,
+    "lng": -96.6320
+  },
+  {
+    "id": "access_period_omaha_ne",
+    "name": "Access Period",
+    "address": "Omaha, NE 68102, USA",
+    "lat": 41.2565,
+    "lng": -95.9345
+  },
+
+  {
+    "id": "project_marilyn_las_vegas_nv",
+    "name": "Project Marilyn",
+    "address": "Las Vegas, NV 89101, USA",
+    "lat": 36.1699,
+    "lng": -115.1398
+  },
+  {
+    "id": "kwek_society_nevada",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Reno, NV, USA",
+    "lat": 39.5296,
+    "lng": -119.8138
+  },
+
+  {
+    "id": "nh_childrens_trust_concord_nh",
+    "name": "New Hampshire Children’s Trust",
+    "address": "105 Pleasant St, Concord, NH 03301, USA",
+    "lat": 43.2081,
+    "lng": -71.5380
+  },
+
+  {
+    "id": "cfbnj_period_initiative_hillside_nj",
+    "name": "CFBNJ Period Initiative (Community Food Bank of New Jersey)",
+    "address": "31 Evans Terminal Rd, Hillside, NJ 07205, USA",
+    "lat": 40.6954,
+    "lng": -74.2250
+  },
+  {
+    "id": "modestly_cover_newark_nj",
+    "name": "Modestly Cover Diaper Bank",
+    "address": "Newark, NJ 07105, USA",
+    "lat": 40.7357,
+    "lng": -74.1724
+  },
+  {
+    "id": "junior_league_monmouth_rumson_nj",
+    "name": "Junior League of Monmouth County",
+    "address": "Rumson, NJ 07760, USA",
+    "lat": 40.3718,
+    "lng": -74.0004
+  },
+  {
+    "id": "healthy_periods_warren_nj",
+    "name": "Healthy Periods (Moms Helping Moms Foundation)",
+    "address": "Warren, NJ 07059, USA",
+    "lat": 40.6337,
+    "lng": -74.5005
+  },
+
+  {
+    "id": "free_flow_nm_santa_fe_nm",
+    "name": "Free Flow NM, Inc.",
+    "address": "Santa Fe, NM 87501, USA",
+    "lat": 35.6870,
+    "lng": -105.9378
+  },
+  {
+    "id": "kwek_society_new_mexico",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Albuquerque, NM, USA",
+    "lat": 35.0844,
+    "lng": -106.6504
+  },
+
+  {
+    "id": "erie_county_alliance_buffalo_ny",
+    "name": "Erie County Alliance for Period Supplies (Every Bottom Covered)",
+    "address": "Buffalo, NY 14203, USA",
+    "lat": 42.8864,
+    "lng": -78.8784
+  },
+  {
+    "id": "cooperstown_food_pantry_cooperstown_ny",
+    "name": "Cooperstown Food Pantry",
+    "address": "25 Church St, Cooperstown, NY 13326, USA",
+    "lat": 42.7006,
+    "lng": -74.9230
+  },
+  {
+    "id": "allied_foundation_melville_ny",
+    "name": "The Allied Foundation",
+    "address": "Melville, NY 11747, USA",
+    "lat": 40.7937,
+    "lng": -73.4154
+  },
+  {
+    "id": "her_village_bronx_ny",
+    "name": "Her Village",
+    "address": "Bronx, NY 10451, USA",
+    "lat": 40.8448,
+    "lng": -73.8648
+  },
+  {
+    "id": "expecting_relief_brooklyn_ny",
+    "name": "Expecting Relief",
+    "address": "Brooklyn, NY 11201, USA",
+    "lat": 40.6782,
+    "lng": -73.9442
+  },
+  {
+    "id": "moms_for_moms_manhattan_ny",
+    "name": "Moms for Moms NYC",
+    "address": "Manhattan, NY 10001, USA",
+    "lat": 40.7831,
+    "lng": -73.9712
+  },
+  {
+    "id": "for_women_by_women_queens_ny",
+    "name": "For Women By Women, Period",
+    "address": "Queens, NY 11368, USA",
+    "lat": 40.7282,
+    "lng": -73.7949
+  },
+  {
+    "id": "914_cares_north_white_plains_ny",
+    "name": "(914) Cares",
+    "address": "North White Plains, NY 10603, USA",
+    "lat": 41.0493,
+    "lng": -73.7723
+  },
+  {
+    "id": "kwek_society_new_york",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Albany, NY, USA",
+    "lat": 42.6526,
+    "lng": -73.7562
+  },
+
+  {
+    "id": "on_the_spot_durham_nc",
+    "name": "On the Spot (Diaper Bank of North Carolina)",
+    "address": "Durham, NC 27701, USA",
+    "lat": 35.9940,
+    "lng": -78.8986
+  },
+  {
+    "id": "period_kits_nc_goldsboro_nc",
+    "name": "Period Kits North Carolina, Inc.",
+    "address": "Goldsboro, NC 27530, USA",
+    "lat": 35.3849,
+    "lng": -77.9928
+  },
+  {
+    "id": "project_dignity_wnc_hendersonville_nc",
+    "name": "Project Dignity of WNC, Inc.",
+    "address": "Hendersonville, NC 28792, USA",
+    "lat": 35.3187,
+    "lng": -82.4609
+  },
+  {
+    "id": "kindness_closet_mooresville_nc",
+    "name": "The Kindness Closet",
+    "address": "Mooresville, NC 28115, USA",
+    "lat": 35.5849,
+    "lng": -80.8101
+  },
+  {
+    "id": "kateys_kits_newport_nc",
+    "name": "Katey’s Kits",
+    "address": "Newport, NC 28570, USA",
+    "lat": 34.7879,
+    "lng": -76.8591
+  },
+  {
+    "id": "confidence_project_pittsboro_nc",
+    "name": "The Confidence Project",
+    "address": "Pittsboro, NC 27312, USA",
+    "lat": 35.7201,
+    "lng": -79.1772
+  },
+  {
+    "id": "kwek_society_north_carolina",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Raleigh, NC, USA",
+    "lat": 35.7796,
+    "lng": -78.6382
+  },
+
+  {
+    "id": "kwek_society_north_dakota",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Bismarck, ND, USA",
+    "lat": 46.8083,
+    "lng": -100.7837
+  }
+]
+[
+  {
+    "id": "tidal_babe_cincinnati_oh",
+    "name": "Tidal Babe Period Bank (Sweet Cheeks Diaper Bank)",
+    "address": "1311 Vine St, Cincinnati, OH 45202, USA",
+    "lat": 39.1087,
+    "lng": -84.5136
+  },
+  {
+    "id": "our_flow_cleveland_oh",
+    "name": "Our Flow (Diaper Bank of Greater Cleveland)",
+    "address": "15500 S Waterloo Rd, Cleveland, OH 44110, USA",
+    "lat": 41.5705,
+    "lng": -81.5501
+  },
+  {
+    "id": "period_pantry_project_columbus_oh",
+    "name": "The Period Pantry Project",
+    "address": "Columbus, OH 43215, USA",
+    "lat": 39.9612,
+    "lng": -82.9988
+  },
+  {
+    "id": "change_the_cycle_elyria_oh",
+    "name": "Change the Cycle (The Women’s Fund)",
+    "address": "Elyria, OH 44035, USA",
+    "lat": 41.3684,
+    "lng": -82.1076
+  },
+  {
+    "id": "period_kits_ohio_new_carlisle_oh",
+    "name": "Period Kits Ohio",
+    "address": "New Carlisle, OH 45344, USA",
+    "lat": 39.9367,
+    "lng": -84.0255
+  },
+  {
+    "id": "project_mkc_youngstown_oh",
+    "name": "Project MKC Period Supply Bank",
+    "address": "Youngstown, OH 44503, USA",
+    "lat": 41.0998,
+    "lng": -80.6495
+  },
+  {
+    "id": "providing_for_women_xenia_oh",
+    "name": "Providing for Women",
+    "address": "Xenia, OH 45385, USA",
+    "lat": 39.6848,
+    "lng": -83.9297
+  },
+
+  {
+    "id": "junior_league_okc_ok",
+    "name": "Junior League of Oklahoma City",
+    "address": "711 NW 23rd St, Oklahoma City, OK 73103, USA",
+    "lat": 35.4935,
+    "lng": -97.5243
+  },
+  {
+    "id": "infant_crisis_services_okc_ok",
+    "name": "Infant Crisis Services, Inc.",
+    "address": "4224 N Lincoln Blvd, Oklahoma City, OK 73105, USA",
+    "lat": 35.5156,
+    "lng": -97.5040
+  },
+  {
+    "id": "period_okc_foundation_okc_ok",
+    "name": "Period OKC Foundation",
+    "address": "Oklahoma City, OK 73102, USA",
+    "lat": 35.4676,
+    "lng": -97.5164
+  },
+  {
+    "id": "emergency_infant_services_tulsa_ok",
+    "name": "Emergency Infant Services",
+    "address": "1110 S Denver Ave, Tulsa, OK 74119, USA",
+    "lat": 36.1462,
+    "lng": -95.9935
+  },
+  {
+    "id": "tulsa_period_pantry_tulsa_ok",
+    "name": "Tulsa Period Pantry",
+    "address": "Tulsa, OK 74103, USA",
+    "lat": 36.1540,
+    "lng": -95.9928
+  },
+  {
+    "id": "kwek_society_oklahoma",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Norman, OK, USA",
+    "lat": 35.2226,
+    "lng": -97.4395
+  },
+
+  {
+    "id": "kwek_society_oregon",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Portland, OR, USA",
+    "lat": 45.5152,
+    "lng": -122.6784
+  },
+
+  {
+    "id": "mitzvah_circle_harleysville_pa",
+    "name": "Period Supply Program (Mitzvah Circle Foundation)",
+    "address": "2560 Boulevard of the Generals, Norristown, PA 19403, USA",
+    "lat": 40.1486,
+    "lng": -75.3942
+  },
+  {
+    "id": "healthy_steps_period_harrisburg_pa",
+    "name": "Healthy Steps Period (Healthy Steps Diaper Bank)",
+    "address": "Harrisburg, PA 17101, USA",
+    "lat": 40.2732,
+    "lng": -76.8867
+  },
+  {
+    "id": "gentle_gratitude_philadelphia_pa",
+    "name": "Gentle Gratitude",
+    "address": "Philadelphia, PA 19107, USA",
+    "lat": 39.9526,
+    "lng": -75.1652
+  },
+  {
+    "id": "pamper_and_diaper_philadelphia_pa",
+    "name": "Pamper and Diaper My Baby",
+    "address": "Philadelphia, PA 19132, USA",
+    "lat": 39.9951,
+    "lng": -75.1557
+  },
+  {
+    "id": "western_pa_diaper_bank_pittsburgh_pa",
+    "name": "Western PA Diaper Bank’s Period Project",
+    "address": "Pittsburgh, PA 15222, USA",
+    "lat": 40.4406,
+    "lng": -79.9959
+  },
+  {
+    "id": "greater_philadelphia_diaper_bank_richboro_pa",
+    "name": "Greater Philadelphia Diaper Bank",
+    "address": "Richboro, PA 18954, USA",
+    "lat": 40.2165,
+    "lng": -74.9943
+  },
+  {
+    "id": "speed_family_blessing_box_verona_pa",
+    "name": "The Speed Family Blessing Box & Pantry Inc.",
+    "address": "Verona, PA 15147, USA",
+    "lat": 40.5017,
+    "lng": -79.8434
+  },
+
+  {
+    "id": "project_undercover_cranston_ri",
+    "name": "Project Undercover",
+    "address": "Cranston, RI 02920, USA",
+    "lat": 41.7798,
+    "lng": -71.4373
+  },
+  {
+    "id": "red_lined_north_providence_ri",
+    "name": "Red Lined",
+    "address": "North Providence, RI 02911, USA",
+    "lat": 41.8501,
+    "lng": -71.4662
+  },
+  {
+    "id": "amenity_aid_warwick_ri",
+    "name": "Amenity Aid",
+    "address": "Warwick, RI 02886, USA",
+    "lat": 41.7001,
+    "lng": -71.4162
+  },
+
+  {
+    "id": "period_project_greenville_sc",
+    "name": "Period Project",
+    "address": "Greenville, SC 29601, USA",
+    "lat": 34.8526,
+    "lng": -82.3940
+  },
+  {
+    "id": "power_cycle_columbia_sc",
+    "name": "Power Cycle (Power in Changing)",
+    "address": "Columbia, SC 29201, USA",
+    "lat": 34.0007,
+    "lng": -81.0348
+  },
+
+  {
+    "id": "kwek_society_south_dakota",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Rapid City, SD, USA",
+    "lat": 44.0805,
+    "lng": -103.2310
+  },
+
+  {
+    "id": "chattanooga_diaper_hub_tn",
+    "name": "Chattanooga Diaper Hub",
+    "address": "Chattanooga, TN 37402, USA",
+    "lat": 35.0456,
+    "lng": -85.3097
+  },
+  {
+    "id": "901_period_cordova_tn",
+    "name": "901 Period (Sweet Cheeks Diaper Ministry)",
+    "address": "Cordova, TN 38016, USA",
+    "lat": 35.1595,
+    "lng": -89.7768
+  },
+  {
+    "id": "helping_mamas_knoxville_tn",
+    "name": "Helping Mamas – Knoxville",
+    "address": "Knoxville, TN 37917, USA",
+    "lat": 35.9606,
+    "lng": -83.9207
+  },
+  {
+    "id": "shiloh_distribution_center_lexington_tn",
+    "name": "Shiloh Distribution Center",
+    "address": "Lexington, TN 38351, USA",
+    "lat": 35.6509,
+    "lng": -88.3934
+  },
+  {
+    "id": "bare_needs_memphis_tn",
+    "name": "Bare Needs (Mid-South Food Bank)",
+    "address": "3865 S Perkins Rd, Memphis, TN 38118, USA",
+    "lat": 35.0563,
+    "lng": -89.9190
+  },
+  {
+    "id": "community_resource_center_nashville_tn",
+    "name": "Community Resource Center",
+    "address": "218 Omohundro Pl, Nashville, TN 37210, USA",
+    "lat": 36.1456,
+    "lng": -86.7460
+  },
+  {
+    "id": "communities_in_schools_tn_nashville",
+    "name": "Communities in Schools of Tennessee",
+    "address": "1900 Church St, Nashville, TN 37203, USA",
+    "lat": 36.1527,
+    "lng": -86.8000
+  }
+]
+[
+  {
+    "id": "bright_spot_austin_tx",
+    "name": "Bright Spot (Austin Diaper Bank)",
+    "address": "7500 Blessing Ave, Austin, TX 78752, USA",
+    "lat": 30.3366,
+    "lng": -97.6945
+  },
+  {
+    "id": "her_pantry_ministry_el_paso_tx",
+    "name": "Her Pantry Ministry",
+    "address": "El Paso, TX 79901, USA",
+    "lat": 31.7619,
+    "lng": -106.4850
+  },
+  {
+    "id": "she_supply_flower_mound_tx",
+    "name": "She Supply",
+    "address": "Flower Mound, TX 75028, USA",
+    "lat": 33.0146,
+    "lng": -97.0969
+  },
+  {
+    "id": "janes_special_packs_humble_tx",
+    "name": "Jane’s Special Packs",
+    "address": "Humble, TX 77338, USA",
+    "lat": 29.9988,
+    "lng": -95.2622
+  },
+  {
+    "id": "baby_booties_mckinney_tx",
+    "name": "Baby Booties Diaper Bank",
+    "address": "209 Industrial Blvd, McKinney, TX 75069, USA",
+    "lat": 33.1976,
+    "lng": -96.6061
+  },
+  {
+    "id": "healthy_women_period_san_antonio_tx",
+    "name": "Healthy Women Period (Texas Diaper Bank)",
+    "address": "1803 Grandstand Dr, San Antonio, TX 78238, USA",
+    "lat": 29.4658,
+    "lng": -98.5551
+  },
+
+  {
+    "id": "little_lambs_logan_ut",
+    "name": "Little Lambs Foundation for Kids",
+    "address": "Logan, UT 84321, USA",
+    "lat": 41.7369,
+    "lng": -111.8338
+  },
+
+  {
+    "id": "take_care_project_londonderry_vt",
+    "name": "The Take Care Project (Alliance for Community Transformation)",
+    "address": "Londonderry, VT 05148, USA",
+    "lat": 43.2306,
+    "lng": -72.8076
+  },
+  {
+    "id": "felicias_inc_rupert_vt",
+    "name": "Felicia’s Inc.",
+    "address": "Rupert, VT 05768, USA",
+    "lat": 43.2620,
+    "lng": -73.2229
+  },
+  {
+    "id": "rutland_parent_child_center_vt",
+    "name": "Rutland County Parent Child Center",
+    "address": "61 Pleasant St, Rutland, VT 05701, USA",
+    "lat": 43.6106,
+    "lng": -72.9726
+  },
+  {
+    "id": "kwek_society_vermont",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Montpelier, VT, USA",
+    "lat": 44.2601,
+    "lng": -72.5754
+  },
+
+  {
+    "id": "sylvias_sisters_chesterfield_va",
+    "name": "Sylvia’s Sisters",
+    "address": "Chesterfield, VA 23832, USA",
+    "lat": 37.3541,
+    "lng": -77.4414
+  },
+
+  {
+    "id": "bellingham_food_bank_wa",
+    "name": "Bellingham Food Bank",
+    "address": "1824 Ellis St, Bellingham, WA 98225, USA",
+    "lat": 48.7557,
+    "lng": -122.4817
+  },
+  {
+    "id": "kidvantage_seattle_wa",
+    "name": "KidVantage",
+    "address": "11605 NE 8th St, Bellevue, WA 98004, USA",
+    "lat": 47.6177,
+    "lng": -122.1833
+  },
+  {
+    "id": "raising_girls_tacoma_wa",
+    "name": "Raising Girls",
+    "address": "Tacoma, WA 98402, USA",
+    "lat": 47.2529,
+    "lng": -122.4443
+  },
+  {
+    "id": "kwek_society_washington",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Spokane, WA, USA",
+    "lat": 47.6588,
+    "lng": -117.4260
+  },
+
+  {
+    "id": "bridge_food_diaper_elkhorn_wi",
+    "name": "The Bridge Food & Diaper Bank, Inc.",
+    "address": "W6376 Bridge Rd, Elkhorn, WI 53121, USA",
+    "lat": 42.6714,
+    "lng": -88.5404
+  },
+  {
+    "id": "eastern_wisconsin_alliance_kaukauna_wi",
+    "name": "Eastern Wisconsin Alliance for Period Supplies",
+    "address": "Kaukauna, WI 54130, USA",
+    "lat": 44.2780,
+    "lng": -88.2721
+  },
+  {
+    "id": "milwaukee_diaper_mission_wi",
+    "name": "Milwaukee Diaper Mission",
+    "address": "1120 E Pleasant St, Milwaukee, WI 53202, USA",
+    "lat": 43.0606,
+    "lng": -87.8977
+  },
+  {
+    "id": "fox_cities_diaper_bank_menasha_wi",
+    "name": "Fox Cities Diaper Bank (United Way Fox Cities)",
+    "address": "1455 Midway Rd, Menasha, WI 54952, USA",
+    "lat": 44.2020,
+    "lng": -88.4462
+  },
+  {
+    "id": "sunshine_place_sun_prairie_wi",
+    "name": "Sunshine Place",
+    "address": "18 Rickel Rd, Sun Prairie, WI 53590, USA",
+    "lat": 43.1856,
+    "lng": -89.2134
+  },
+  {
+    "id": "kwek_society_wisconsin",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Madison, WI, USA",
+    "lat": 43.0731,
+    "lng": -89.4012
+  },
+
+  {
+    "id": "kwek_society_wyoming",
+    "name": "The Kwek Society (Native American educators & organizations)",
+    "address": "Cheyenne, WY, USA",
+    "lat": 41.1400,
+    "lng": -104.8202
+  }
+]
