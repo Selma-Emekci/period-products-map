@@ -146,7 +146,7 @@ export default function App() {
                         fontWeight: 800,
                       }}
                     >
-                      Open Directions in Maps
+                      Open in Maps
                     </button>
                   </div>
                 )}
